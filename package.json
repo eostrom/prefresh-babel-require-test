@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "Erik Ostrom <code@erikostrom.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@prefresh/babel-plugin": "^0.4.2"
+  }
 }
