@@ -1,0 +1,9 @@
+{
+  "name": "prefresh-babel-require-test",
+  "version": "1.0.0",
+  "description": "test case for @prefresh/babel-plugin require bug",
+  "main": "index.js",
+  "author": "Erik Ostrom <code@erikostrom.com>",
+  "license": "MIT",
+  "private": true
+}
